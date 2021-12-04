@@ -39,3 +39,6 @@
 Не забудьте написать авто-тесты, разделив логику и взаимодействие с DOM. Для тестирования взаимодействия с DOM пользуйтесь Puppeteer.
 
 ---
+
+
+[![Build status](https://ci.appveyor.com/api/projects/status/f179lajf2jo77bmg/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-5-2/branch/main)
